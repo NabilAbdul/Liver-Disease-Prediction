@@ -1,0 +1,47 @@
+Age above 89 is given as 90
+
+Total Bilirubin----This is a blood test that measures the amount of a substance called bilirubin.
+
+A small amount of bilirubin in your blood is normal, but a high level may be a sign of liver disease.
+
+
+Direct Bilirubin==Bilirubin is a substance made when your body breaks down old red blood cells
+
+A small amount of bilirubin in your blood is normal. Healthy adults make 250 to 350 milligrams (mg) of bilirubin each day.
+
+
+alkphos Alkaline Phosphotase====An alkaline phosphatase (ALP) test measures the amount of ALP in your blood. 
+ALP is an enzyme found throughout the body, but it is mostly found in the liver, bones, kidneys, and digestive system. 
+When the liver is damaged, ALP may leak into the bloodstream. High levels of ALP can indicate liver disease or bone disorders.
+
+An alkaline phosphatase test is used to detect diseases of the liver or bones.
+
+
+sgpt Alamine Aminotransferase====An enzyme found in the liver and other tissues. A high level of SGPT released into the blood may be a sign of liver 
+damage, cancer, or other diseases. Also called alanine transferase and serum glutamate pyruvate transaminase.
+
+
+
+sgot Aspartate Aminotransferase===An enzyme found in the liver, heart, and other tissues. A high level of SGOT released into the blood may be a 
+sign of liver or heart damage, cancer, or other diseases. Also called aspartate transaminase and serum glutamic-oxaloacetic transaminase.
+
+tot_proteins===== The total protein test measures the total amount albumin and globulin in your body. It’s used as part of your routine health checkup. 
+It may also be used if you have unexpected weight loss, fatigue, or the symptoms of a kidney or liver disease.
+
+albumin====Albumin is a protein made by the liver. A serum albumin test measures the amount of this protein in the clear liquid portion of the blood. 
+Albumin can also be measured in the urine. Blood is drawn from a vein (venipuncture), usually from the inside of the elbow or the back of the hand.
+
+ag_ratio====A total protein and albumin/globulin (A/G) ratio test measures the total amount of protein in your blood
+
+
+
+
+
+
+
+
+
+
+
+
+
